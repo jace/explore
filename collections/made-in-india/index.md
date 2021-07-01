@@ -32,6 +32,10 @@ items:
  - ToolJet/ToolJet
  - ParthJadhav/Tkinter-Designer
  - dr5hn/countries-states-cities-database
+ - jace/mxsniff
+ - hasgeek/coaster
+ - hasgeek/hasjob
+ - hasgeek/funnel
 display_name: Made in India
 created_by: mvkaran
 image: made-in-india.png
